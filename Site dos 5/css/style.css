@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+/* cor do fundo do site      */
+    background-color: rgb(84, 0, 133);
+    font-family: sans-serif;
+    list-style: none;
+    text-align: center;
+    
+}
+/* fontes  */
+h1{
+   font-style: italic;
+}
+h2{
+   font-style: italic;
+}
+header{
+/* alinhação do conteudo para o meio  */
+    text-align: center;
+    height: 600px;
+}
+/* cores das ancoras */
+a:link, a:visited{
+     color:blueviolet
+}
+a:hover{
+    color:rgb(31, 1, 59)
+}
+footer{
+/* alinhação do conteudo para o meio  */
+     text-align: center;
+     background-color: rgb(56, 23, 100);
+}
+main{
+    width: 920px;
+    margin: 0 auto;
+}
+.conteudo{
+    background-color: rgb(56, 23, 100);
+    margin-bottom: 20px;
+    padding: 10px;
+    list-style: none;
+}
+div{
+/* box do texto principal      */
+      width: 1275px;
+      height: 200px;
+      border: 10px solid black;
+      padding: 15px;
+      margin: 15px;
+      text-align: center;
+}
+/* article{ */
+
+    width: 1275px;
+      height: 580px;
+      border: 10px solid black;
+      padding: 15px;    
+      margin: 15px;
+    text-align: center;
+}
+#tt1{
+    position: absolute;
+    text-align:center;
+    font-family: sans-serif;
+}
+#DA{
+    background-image: url(WandaVision1-10.jpg);
+     height: 550px; 
+    background-position: center;
+    margin: 10px 180px;
+}
