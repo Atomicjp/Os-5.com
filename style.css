@@ -25,10 +25,10 @@ header{
 }
 /* cores das ancoras */
 a:link, a:visited{
-     color:blueviolet
+     color:rgb(76, 0, 148);
 }
 a:hover{
-    color:rgb(31, 1, 59)
+    color:rgb(31, 1, 59);
 }
 footer{
 /* alinhação do conteudo para o meio  */
@@ -54,7 +54,7 @@ div{
       margin: 15px;
       text-align: center;
 }
-/* article{ */
+article{
 
     width: 1275px;
       height: 580px;
@@ -67,10 +67,10 @@ div{
     position: absolute;
     text-align:center;
     font-family: sans-serif;
-}
-#DA{
+/* }imagem do fundo n topo do site */
+/* #DA{
     background-image: url(imagens/WandaVision1-10.jpg);
      height: 550px; 
     background-position: center;
     margin: 10px 180px;
-}
+} */
